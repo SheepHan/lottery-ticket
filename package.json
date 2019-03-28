@@ -1,0 +1,19 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheepHan/lottery-ticket.git"
+  },
+  "author": "williamcheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheepHan/lottery-ticket/issues"
+  },
+  "homepage": "https://github.com/SheepHan/lottery-ticket#readme"
+}
